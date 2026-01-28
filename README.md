@@ -40,7 +40,7 @@ O guia cobre 9 categorias de acessibilidade:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/guia-acessibilidade-web.git
+git clone https://github.com/jordaobass/acessibilidade-web.git
 
 # Entre na pasta
 cd guia-acessibilidade-web
@@ -165,4 +165,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Desenvolvido com foco em acessibilidade por [NextTag](https://github.com/nexttag)
+Desenvolvido com foco em acessibilidade por [NextTag](https://github.com/jordaobass)

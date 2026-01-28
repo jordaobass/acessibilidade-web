@@ -84,7 +84,7 @@ function App() {
 
               <Button variant="ghost" size="icon" asChild>
                 <a
-                  href="https://github.com/seu-usuario/guia-acessibilidade-web"
+                  href="https://github.com/jordaobass/acessibilidade-web"
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="Ver código fonte no GitHub (abre em nova aba)"
@@ -371,7 +371,7 @@ function App() {
                 </li>
                 <li>
                   <a
-                    href="https://github.com/seu-usuario/guia-acessibilidade-web"
+                    href="https://github.com/jordaobass/acessibilidade-web"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:underline"
