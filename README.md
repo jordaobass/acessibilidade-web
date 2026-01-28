@@ -141,20 +141,6 @@ src/
 - [x] Suporte a `prefers-reduced-motion`
 - [x] Suporte a `prefers-contrast`
 
-## Deploy
-
-O projeto está configurado para deploy na Vercel:
-
-```bash
-# Instale a Vercel CLI
-npm i -g vercel
-
-# Deploy
-vercel
-```
-
-Ou conecte o repositório diretamente no [dashboard da Vercel](https://vercel.com).
-
 ## Recursos Adicionais
 
 - [WCAG 2.1 Quick Reference](https://www.w3.org/WAI/WCAG21/quickref/)
