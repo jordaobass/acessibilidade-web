@@ -1,0 +1,8 @@
+# Robots.txt - Guia de Acessibilidade Web
+# https://acessibilidade.nexttag.com.br
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://acessibilidade.nexttag.com.br/sitemap.xml
